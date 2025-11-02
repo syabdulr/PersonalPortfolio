@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/yislamovic/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=yislamovic&color=blue&style=flat-square" alt="Profile Views" />
 </div>
