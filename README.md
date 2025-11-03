@@ -10,7 +10,7 @@
 
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Yahya+Islamovic+👋;Full-Stack+Developer+%7C+Unity+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Yahya+Islamovic+👋;Full-Stack+Developer+%7C+Specializing+in+PERN+Stack;" alt="Typing SVG" />
 </h1>
 
 ---
@@ -50,19 +50,15 @@ Users can customize and furnish a living space in real-time, with realistic ligh
 > Refactored and built multiple PERN stack apps with REST APIs, form validation, and unit tests.  
 **Tech:** PostgreSQL, Express, React, Node.js, Jest, Mocha, Chai  
 
-#### ⚙️ [Backend Systems Demo](#)
-> Microservices prototype using .NET, Go, and PostgreSQL with Redis caching and containerized deployment.  
-**Tech:** C#, Go, PostgreSQL, Docker, Azure App Services  
-
 ---
 
 ### 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yislamovic&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yislamovic&theme=tokyonight&hide_border=true" />
 </p>
-
+-->
 ---
 
 ### 🌐 Connect With Me
