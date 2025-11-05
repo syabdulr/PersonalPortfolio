@@ -10,8 +10,9 @@
 
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Hey!+I'm+Yahya+Islamovic+👋;PERN+Fullstack+%7C+Unity+Dev;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0078D7&center=true&vCenter=true&width=700&lines=Abdul+Syed+-+Cloud+%26+DevOps+Engineer;Building+SAP+on+Azure+Solutions" alt="Typing SVG" />
 </h1>
+
 
 ---
 ### 👨‍💻 About Me
@@ -27,7 +28,7 @@ I enjoy building the backbone of systems — the parts that make complex environ
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,linux,terraform,docker,ansible,github,jenkins,python,bash,postgres,sqlserver,powerbi,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,terraform,docker,ansible,github,jenkins,python,bash,postgres,grafana,prometheus" />
 </p>
 
 **Core Skills**  
