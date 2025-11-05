@@ -14,65 +14,59 @@
 </h1>
 
 ---
-
 ### 👨‍💻 About Me
 
-I'm **Yahya Islamovic**, a process-driven **Full-Stack Developer** passionate about bridging beautiful interfaces with performant, scalable backends.  
-With **2.5+ years** of professional experience across **PERN**, **.NET**, and **Unity**, I’ve shipped multiple production systems and immersive applications — from enterprise ERP tools to a VR interior design prototype for the Meta Quest 3.  
+I’m **Abdul Syed**, an **Azure & Cloud Infrastructure Specialist** with over **5 years of experience** supporting enterprise systems across **hybrid Azure and Linux** environments.  
+I focus on automation, system reliability, and building **SAP-connected cloud architectures** that scale securely and perform efficiently.
 
-💡 I love architecting solutions end-to-end, improving performance, and constantly learning new tech.  
+💡 Currently advancing my expertise in **SAP on Azure** and infrastructure automation using **Terraform, Ansible, and GitHub Actions**.  
+I enjoy building the backbone of systems — the parts that make complex environments resilient, observable, and easy to maintain.
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nodejs,express,postgres,html,css,figma,git,azure,docker,unity,dotnet,python,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=azure,linux,terraform,docker,ansible,github,jenkins,python,bash,postgres,sqlserver,powerbi,grafana,prometheus" />
 </p>
 
-**Core Languages & Frameworks**  
-TypeScript / JavaScript • React • Node.js / Express • C# / .NET • PostgreSQL • HTML / CSS  
-Unity • NestJS • Python / Django  
+**Core Skills**  
+Azure Administration • Linux System Engineering • Infrastructure as Code (Terraform, Ansible)  
+Automation & Monitoring (Prometheus, Grafana) • CI/CD (GitHub Actions, Jenkins) • Cloud Security & RBAC  
 
-**Cloud, DevOps & Tools**  
-Azure • Docker • AWS (EC2, S3, RDS) • CI/CD Pipelines (GitHub Actions, Azure DevOps) • Git • VSCode • Figma  
-
----
-
-### 💼 Projects
-
-#### 🏗️ [Unity VR Interior Design Prototype](#)
-> *An immersive VR/XR sandbox app for Meta Quest 3.*  
-Users can customize and furnish a living space in real-time, with realistic lighting, hand tracking, and asset swapping — blending spatial design with high performance.  
-**Tech:** Unity, C#, .NET, XR Interaction Toolkit
-
-#### 🌐 [Full-Stack Web Apps (Freelance)](#)
-> Refactored and built multiple PERN stack apps with REST APIs, form validation, and unit tests.  
-**Tech:** PostgreSQL, Express, React, Node.js, Jest, Mocha, Chai  
+**SAP & Enterprise Tools**  
+SAP BTP • SAP HANA DB • Event Mesh • Datasphere • Power BI Integration  
 
 ---
 
-<!--
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yislamovic&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yislamovic&theme=tokyonight&hide_border=true" />
-</p>
+### 💼 Highlight Projects
+
+#### ☁️ [SAP Landing Zone Accelerator — Infrastructure Automation Framework](#)
+> Terraform-based automation for provisioning scalable and secure **SAP HANA** deployments on **Azure**.  
+**Tech:** Terraform • Azure • IaC • RBAC • Monitoring
+
+#### 🧩 [Nexus ERP Platform — Cloud-Native & SAP-Integrated SaaS](#)
+> Azure-native inventory and procurement platform integrated with **SAP BTP** and **Event Mesh** for real-time analytics and order management.  
+**Tech:** Azure • SAP BTP • Event Mesh • Docker • GitHub Actions  
+
 ---
--->
+
+### 🎓 Certifications
+
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)** — *Expected Nov 2025*  
+- **SAP Certified: HANA Database Administrator (C_DBADM)** — *In Progress*  
+
+---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://yahyaislamovic.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yahya-islamovic" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulsyed1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:yislamov@icloud.com">
+  <a href="mailto:abdulsyed1998@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/yislamovic" target="_blank">
+  <a href="https://github.com/syabdulr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -81,4 +75,4 @@ Users can customize and furnish a living space in real-time, with realistic ligh
 
 ### ☕ Fun Fact
 
-> When I’m not coding, you’ll probably find me experimenting with VR tech, drinking too much coffee, or learning how to make systems scale smarter — not harder.
+> When I’m not optimizing infrastructure, I’m probably at the gym, reading about system design, or experimenting with automation that eliminates repetitive work entirely.
